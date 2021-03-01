@@ -10,3 +10,6 @@ Co zawiera skrypt lvkees_urazy?
 - Pokazuje czy sa odlamki *wybiera losowo
 
 Skrypt jest w 3dme i nie wyswietla sie na chacie dzieki czemu nie ma spamu na chacie
+
+Proszę nie zmieniać nazwy "lvkees_urazy"
+Polecam usunąć -main z nazwy folderu
